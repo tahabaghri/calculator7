@@ -1,0 +1,1 @@
+source.include_exts = py,png,jpg,kv,atlas
